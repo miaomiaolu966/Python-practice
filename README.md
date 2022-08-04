@@ -1,1 +1,4 @@
-# Python-practice
+# Python练习册-解析
+##第0000题  
+利用Python中的PIL图像处理库，可以实现给图片添加文字的效果
+
